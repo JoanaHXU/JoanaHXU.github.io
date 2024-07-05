@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at [Centre of Transformative Garment Production](https://www.transgp.hk/), The University of Hong Kong ([HKU](https://www.hku.hk/)), under the supervision of Prof. [Pan Jia](https://www.cs.hku.hk/people/academic-staff/jpan). 
-Previously, I received my Ph.D. from [School of Computer Science and Engineering](https://www.ntu.edu.sg/computing), Nanyang Techonology University ([NTU](https://www.ntu.edu.sg/)), Singapore, in 2023. 
-My Ph.D. was supervised by Prof. [Zinovi Rabinovich](https://www.zinovi.net/), working on reinforcement learning and behaviour manipulation.![image](https://github.com/JoanaHXU/JoanaHXU.github.io/assets/50697646/c5756a3f-52a8-452b-8ddf-2889b86d46a8)
-My research interests lie in the intersection of robotic manipulation and machine learning (reinforcement learning and imitation learning).
+I am a Postdoctoral Fellow at [Centre of Transformative Garment Production](https://www.transgp.hk/), [HKU](https://www.hku.hk/), supervised by Prof. [Pan Jia](https://www.cs.hku.hk/people/academic-staff/jpan) 
 
 
 
