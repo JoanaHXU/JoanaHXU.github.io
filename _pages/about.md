@@ -17,7 +17,7 @@ My current research lie in the intersection of robotic manipulation and machine 
 
 
 ### Publications (Selected/[Full List](https://scholar.google.com.sg/citations?view_op=list_works&hl=en&hl=en&user=_tNUciIAAAAJ))
-** \* Equal contribution †Corresponding author **
+*\* Equal contribution †Corresponding author*
 - [BiKC: Keypose-Conditioned Consistency Policy for Bimanual Robotic Manipulation](https://arxiv.org/pdf/2406.10093)   
   Dongjie Yu\*, **Hang Xu\***, Yizhou Chen, Yi Ren, Jia Pan
   arXiv, 2024
