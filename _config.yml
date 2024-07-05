@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Xu Hang"
+description              : &description "Postdoctoral Fellow @HKU"
 url                      : https://JoanaHXU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JoanaHXU/JoanaHXU.github.io"
@@ -22,11 +22,11 @@ repository               : "JoanaHXU/JoanaHXU.github.io"
 author:
   # Biographic information
   avatar           : "profile_2023.png"
-  name             : "Your Sidebar Name"
+  name             : "Xu Hang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong, SAR"
-  employer         : "Red Brick University"
+  employer         : "Centre of Transformative Garment Centre (HKU)"
   uri              : # URL
   email            : "xuhang_official@outlook.com" 
 
