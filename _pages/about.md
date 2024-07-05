@@ -12,6 +12,8 @@ Previously, I received my Ph.D. from [School of Computer Science and Engineering
 My Ph.D. was supervised by Prof. [Zinovi Rabinovich](https://www.zinovi.net/), working on reinforcement learning and behaviour manipulation.![image](https://github.com/JoanaHXU/JoanaHXU.github.io/assets/50697646/c5756a3f-52a8-452b-8ddf-2889b86d46a8)
 My research interests lie in the intersection of robotic manipulation and machine learning (reinforcement learning and imitation learning).
 
+
+
 **Markdown generator**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
