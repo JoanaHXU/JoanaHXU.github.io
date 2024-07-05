@@ -21,14 +21,14 @@ repository               : "JoanaHXU/JoanaHXU.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_2023.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Hong Kong, SAR"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xuhang_official@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
