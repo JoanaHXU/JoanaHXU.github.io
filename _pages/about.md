@@ -21,7 +21,7 @@ My current research lie in the intersection of robotic manipulation and machine 
 - [BiKC: Keypose-Conditioned Consistency Policy for Bimanual Robotic Manipulation](https://arxiv.org/pdf/2406.10093)   
   Dongjie Yu\*, **Hang Xu\***, Yizhou Chen, Yi Ren, Jia Pan
   arXiv, 2024
-- [Poisoning the Well: Can We Simultaneously Attack a Group of Learning Agents?](https://www.ijcai.org/proceedings/2023/0386.pdf)
+- [Poisoning the Well: Can We Simultaneously Attack a Group of Learning Agents?](https://www.ijcai.org/proceedings/2023/0386.pdf)   
   Ridhima Bector, **Hang Xu**, Abhay Aradhya, Chai Quek, Zinovi Rabinovich
   IJCAI, 2023
 - [Spiking pitch black: Poisoning an unknown environment to attack unknown reinforcement learners](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1409.pdf)  
