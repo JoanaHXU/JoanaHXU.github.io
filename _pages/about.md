@@ -27,7 +27,7 @@ My recent research interests mainly focus on the intersection of robotic manipul
   International Joint Conference on Artificial Intelligence (*IJCAI*), 2023  
   
   
-- [Spiking pitch black: Poisoning an unknown environment to attack unknown reinforcement learners](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1409.pdf)      
+- [Spiking pitch black: Poisoning an Unknown Environment to Attack Unknown Reinforcement Learners](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1409.pdf)      
   **Hang Xu**, Xinghua Qu, Zinovi Rabinovich   
   International Conference on Autonomous Agents and Multiagent Systems (*AAMAS*), 2022   
   
@@ -36,7 +36,7 @@ My recent research interests mainly focus on the intersection of robotic manipul
   **Hang Xu**, Xinghua Qu, Zinovi Rabinovich   
   Machine Learning Safety Workshop, Conference on Neural Information Processing Systems (*NeurIPS*), 2022   
   
-- [Transferable environment poisoning: Training-time attack on reinforcement learning](https://ifmas.csc.liv.ac.uk/Proceedings/aamas2021/pdfs/p1398.pdf)    
+- [Transferable Environment Poisoning: Training-time Attack on Reinforcement Learning](https://ifmas.csc.liv.ac.uk/Proceedings/aamas2021/pdfs/p1398.pdf)    
   **Hang Xu**, Rundong Wang, Lev Raizman, Zinovi Rabinovich    
   International Conference on Autonomous Agents and Multiagent Systems (*AAMAS*), 2021   
   
