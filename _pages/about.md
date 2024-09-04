@@ -19,7 +19,7 @@ My recent research interests mainly focus on the intersection of robotic manipul
 
 - [BiKC: Keypose-Conditioned Consistency Policy for Bimanual Robotic Manipulation](https://arxiv.org/pdf/2406.10093)   
   Dongjie Yu\*, **Hang Xu\***, Yizhou Chen, Yi Ren, Jia Pan     
-  arXiv, 2024  
+  Internatinal Workshop on Algorithmic Foundations of Robotics (*WAFR*), 2024
  
   
 - [Poisoning the Well: Can We Simultaneously Attack a Group of Learning Agents?](https://www.ijcai.org/proceedings/2023/0386.pdf)    
