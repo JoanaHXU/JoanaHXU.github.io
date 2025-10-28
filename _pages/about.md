@@ -17,6 +17,14 @@ My recent research interests mainly focus on the intersection of robotic manipul
 ## Publications (Selected/[Full List](https://scholar.google.com.sg/citations?view_op=list_works&hl=en&hl=en&user=_tNUciIAAAAJ))
 *\* Equal contribution †Corresponding author*
 
+- [RTFF: Random-to-Target Fabric Flattening Policy using Dual-Arm Manipulator](https://arxiv.org/pdf/2510.00814)   
+  Kai Tang, Dipankar Bhattacharya, **Hang Xu**, Fuyuki Tokuda, Norman C. Tien, Kazuhiro Kosuge     
+  Submitted to ICRA 2025.
+
+- [SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives](https://arxiv.org/pdf/2506.18825)   
+  Yizhou Chen, **Hang Xu**, Dongjie Yu, Zeqing Zhang, Yi Ren, Jia Pan     
+  Workshop on Out-of-Distribution Generalization in RSS, 2025
+
 - [BiKC: Keypose-Conditioned Consistency Policy for Bimanual Robotic Manipulation](https://arxiv.org/pdf/2406.10093)   
   Dongjie Yu\*, **Hang Xu\***, Yizhou Chen, Yi Ren, Jia Pan     
   International Workshop on Algorithmic Foundations of Robotics (*WAFR*), 2024
@@ -38,7 +46,7 @@ My recent research interests mainly focus on the intersection of robotic manipul
   
 - [Transferable Environment Poisoning: Training-time Attack on Reinforcement Learning](https://ifmas.csc.liv.ac.uk/Proceedings/aamas2021/pdfs/p1398.pdf)    
   **Hang Xu**, Rundong Wang, Lev Raizman, Zinovi Rabinovich    
-  International Conference on Autonomous Agents and Multiagent Systems (*AAMAS*), 2021   
+  *AAMAS*, 2021   
   
 
 
