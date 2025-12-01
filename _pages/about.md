@@ -22,11 +22,11 @@ My recent research interests mainly focus on the intersection of robotic manipul
   Submitted to ICRA 2025.
 
 - BiKC+: Bimanual Hierarchical Imitation with Keypose-Conditioned Coordination-Aware Consistency Policies
-  **Hang Xu**, Yizhou Chen, Dongjie Yu, Yi Ren, Jia Pan
+  **Hang Xu**, Yizhou Chen, Dongjie Yu, Yi Ren, Jia Pan     
   *TASE*, accepted, 2025
 
 - [SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives](https://arxiv.org/pdf/2506.18825)   
-  Yizhou Chen, **Hang Xu**, Dongjie Yu, Zeqing Zhang, Yi Ren, Jia Pan
+  Yizhou Chen, **Hang Xu**, Dongjie Yu, Zeqing Zhang, Yi Ren, Jia Pan     
   *RSS*, Workshop on Out-of-Distribution Generalization, 2025
 
 - [BiKC: Keypose-Conditioned Consistency Policy for Bimanual Robotic Manipulation](https://arxiv.org/pdf/2406.10093)   
