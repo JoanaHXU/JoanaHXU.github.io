@@ -21,7 +21,7 @@ My recent research interests mainly focus on the intersection of robotic manipul
   Kai Tang, Dipankar Bhattacharya, **Hang Xu**, Fuyuki Tokuda, Norman C. Tien, Kazuhiro Kosuge     
   Submitted to ICRA 2025.
 
-- BiKC+: Bimanual Hierarchical Imitation with Keypose-Conditioned Coordination-Aware Consistency Policies
+- BiKC+: Bimanual Hierarchical Imitation with Keypose-Conditioned Coordination-Aware Consistency Policies     
   **Hang Xu**, Yizhou Chen, Dongjie Yu, Yi Ren, Jia Pan     
   *TASE*, accepted, 2025
 
