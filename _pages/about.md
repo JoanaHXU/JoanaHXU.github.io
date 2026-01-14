@@ -17,13 +17,13 @@ My recent research interests mainly focus on the intersection of robotic manipul
 ## Publications (Selected/[Full List](https://scholar.google.com.sg/citations?view_op=list_works&hl=en&hl=en&user=_tNUciIAAAAJ))
 *\* Equal contribution †Corresponding author*
 
+- [BiKC+: Bimanual Hierarchical Imitation with Keypose-Conditioned Coordination-Aware Consistency Policies](https://ieeexplore.ieee.org/document/11271705)     
+  **Hang Xu**, Yizhou Chen, Dongjie Yu, Yi Ren, Jia Pan     
+  *TASE*, 2025
+
 - [RTFF: Random-to-Target Fabric Flattening Policy using Dual-Arm Manipulator](https://arxiv.org/pdf/2510.00814)   
   Kai Tang, Dipankar Bhattacharya, **Hang Xu**, Fuyuki Tokuda, Norman C. Tien, Kazuhiro Kosuge     
   Submitted to ICRA 2025.
-
-- BiKC+: Bimanual Hierarchical Imitation with Keypose-Conditioned Coordination-Aware Consistency Policies     
-  **Hang Xu**, Yizhou Chen, Dongjie Yu, Yi Ren, Jia Pan     
-  *TASE*, accepted, 2025
 
 - [SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives](https://arxiv.org/pdf/2506.18825)   
   Yizhou Chen, **Hang Xu**, Dongjie Yu, Zeqing Zhang, Yi Ren, Jia Pan     
