@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Robotics Engineer in JDT (京东科技), where I am responsible for the development and deployment of advanced bimanual manipulation systems. Previously, I worked as a Research Officer at Centre for Transformative Garment Production ([TransGP](https://www.transgp.hk/)) and a Honorary Postdoctoral Fellow at [The University of Hong Kong](https://www.hku.hk/) (HKU), supervised by Prof. [Pan Jia](https://www.cs.hku.hk/people/academic-staff/jpan). 
+I am a Robotics Scientist in JDT (京东科技), where I am responsible for the development and deployment of advanced bimanual manipulation systems. Previously, I worked as a Research Officer at Centre for Transformative Garment Production ([TransGP](https://www.transgp.hk/)) and a Honorary Postdoctoral Fellow at [The University of Hong Kong](https://www.hku.hk/) (HKU), supervised by Prof. [Pan Jia](https://www.cs.hku.hk/people/academic-staff/jpan). 
 I received my Ph.D. from School of Computer Science and Engineering ([SCSE](https://www.ntu.edu.sg/computing)) in [Nanyang Technological University](https://www.ntu.edu.sg/) (NTU), Singapore, in 2023.
 My Ph.D. was supervised by Prof. [Zinovi Rabinovich](https://www.zinovi.net/). 
 My recent research interests mainly focus on the intersection of robotic manipulation and machine learning, especially reinforcement learning and VLA post-training.
@@ -17,7 +17,7 @@ My recent research interests mainly focus on the intersection of robotic manipul
 ## Publications (Selected/[Full List](https://scholar.google.com.sg/citations?view_op=list_works&hl=en&hl=en&user=_tNUciIAAAAJ))
 *\* Equal contribution †Corresponding author*
 
-- [BiKC+: Bimanual Hierarchical Imitation with Keypose-Conditioned Coordination-Aware Consistency Policies](https://ieeexplore.ieee.org/document/11271705)   [[arxiv]](https://www.arxiv.org/pdf/2601.12116)
+- [BiKC+: Bimanual Hierarchical Imitation with Keypose-Conditioned Coordination-Aware Consistency Policies](https://ieeexplore.ieee.org/document/11271705)   [[arxiv]](https://www.arxiv.org/pdf/2601.12116)   
   **Hang Xu**, Yizhou Chen, Dongjie Yu, Yi Ren, Jia Pan     
   *TASE*, 2025  [[arxiv]](https://www.arxiv.org/pdf/2601.12116) [[code]](https://github.com/JoanaHXU/BiKC-plus)
 
