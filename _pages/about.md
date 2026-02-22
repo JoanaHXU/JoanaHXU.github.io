@@ -17,7 +17,7 @@ My recent research interests mainly focus on the intersection of robotic manipul
 ## Publications (Selected/[Full List](https://scholar.google.com.sg/citations?view_op=list_works&hl=en&hl=en&user=_tNUciIAAAAJ))
 *\* Equal contribution †Corresponding author*
 
-- [BiKC+: Bimanual Hierarchical Imitation with Keypose-Conditioned Coordination-Aware Consistency Policies](https://ieeexplore.ieee.org/document/11271705)   [[arxiv]](https://www.arxiv.org/pdf/2601.12116)   
+- [BiKC+: Bimanual Hierarchical Imitation with Keypose-Conditioned Coordination-Aware Consistency Policies](https://ieeexplore.ieee.org/document/11271705)     
   **Hang Xu**, Yizhou Chen, Dongjie Yu, Yi Ren, Jia Pan     
   *TASE*, 2025  [[arxiv]](https://www.arxiv.org/pdf/2601.12116) [[code]](https://github.com/JoanaHXU/BiKC-plus)
 
