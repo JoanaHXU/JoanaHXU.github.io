@@ -21,11 +21,11 @@ repository               : "JoanaHXU/JoanaHXU.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IROS 2025.jpg"
+  avatar           : "profile_2023.png"
   name             : "Xu Hang"
   pronouns         : # example: "she/her"  
   bio              : "Robotics Researcher @JDT"
-  location         : "Shenzhen, China"
+  location         : #"Shenzhen, China"
   employer         : # "JDT"
   uri              : # URL
   email            : "xuhang_official@outlook.com" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "https://github.com/JoanaHXU"
+  github           : https://github.com/JoanaHXU
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/hang-xu-134382130/?skipRedirect=true
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
