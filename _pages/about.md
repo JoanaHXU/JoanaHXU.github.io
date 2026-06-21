@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Robotics Researcher in JDT (京东科技), where I am responsible for the development of bimanual robotic manipulation systems. Previously, I worked as a Research Officer at Centre for Transformative Garment Production ([TransGP](https://www.transgp.hk/)) in Hong Kong SAR. I was a Honorary Postdoctoral Fellow at [The University of Hong Kong](https://www.hku.hk/) (HKU), supervised by Prof. [Pan Jia](https://www.cs.hku.hk/people/academic-staff/jpan). 
+I am a Robotics Researcher in JDT (京东科技). Previously, I worked as a Research Officer at Centre for Transformative Garment Production ([TransGP](https://www.transgp.hk/)) in Hong Kong SAR. I was a Honorary Postdoctoral Fellow at [The University of Hong Kong](https://www.hku.hk/) (HKU), supervised by Prof. [Pan Jia](https://www.cs.hku.hk/people/academic-staff/jpan). 
 I received my Ph.D. from [Nanyang Technological University](https://www.ntu.edu.sg/) (NTU), Singapore, in 2023.
 My Ph.D. was supervised by Prof. [Zinovi Rabinovich](https://www.zinovi.net/). 
 My recent research interests mainly focus on VLA post-training for long-horizon bimanual robotic manipulation.
